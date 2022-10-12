@@ -1,3 +1,5 @@
 # odin-recipes
 
-simple recipe website
+Simple recipe website
+
+Includes some of my favourite recipes.
